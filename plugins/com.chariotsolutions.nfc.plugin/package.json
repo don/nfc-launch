@@ -1,0 +1,21 @@
+{
+    "version": "0.6.2",
+    "name": "com.chariotsolutions.nfc.plugin",
+    "cordova_name": "NFC",
+    "description": "Near Field Communication (NFC) Plugin. Read and write NDEF messages to tags or share NDEF messages with peers.",
+    "license": "MIT",
+    "repo": "https://github.com/chariotsolutions/phonegap-nfc.git",
+    "issue": "https://github.com/chariotsolutions/phonegap-nfc/issues",
+    "keywords": [
+        "nfc",
+        "NFC",
+        "NDEF"
+    ],
+    "platforms": [
+        "android",
+        "wp8",
+        "windows",
+        "blackberry10"
+    ],
+    "engines": []
+}
